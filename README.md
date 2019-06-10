@@ -67,7 +67,7 @@ Google Chrome provides a great Development tool for fine tuning CSS (and HTML) o
 (https://web.compass.lighthouselabs.ca/projects/w3-tweeter?day_number=w03d1)
 
 ## 7. Question about CMYK
-CMYK format. CMYK format for representing colours is not available in CSS3 but it is a suggested standard for CSS4. More about [CMYK format and its support by HTML]. (https://www.w3schools.com/colors/colors_cmyk.asp)
+CMYK format. CMYK format for representing colours is not available in CSS3 but it is a suggested standard for CSS4. More about [CMYK format and its support by HTML](https://www.w3schools.com/colors/colors_cmyk.asp)
 
 
 
